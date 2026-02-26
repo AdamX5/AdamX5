@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Adam
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-bitus-2b1183256) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32385506) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@AdamX5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:badamx5@gmail.com) 
 I work independently on projects and freelance consultations.<br>I work with projects that pique my interest, regardless of specifics.<br>Love to help with diverse challenges and projects that can use my skills.<br>I’m currently learning System Architecture and Performance Optimisation.<br>Mesmorised by AI and the opportunities it brings to the table.<br>
 
 # My Tech Stack:
