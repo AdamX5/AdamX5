@@ -33,23 +33,7 @@
   <h2 align="center"> </h2>
 </p>
 
-### A little "Connect Four" game I made 
-> Click a number below to drop your piece. My algorythm will respond.
-
+### 🐍 My Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdamX5/AdamX5/main/games/connect4/board.png" alt="Current Game Board" width="600px" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/AdamX5/AdamX5/issues/new?title=c4%3Adrop%3A1&body=Just+click+%27Submit+new+issue%27+to+play!+Do+not+change+the+title.">1️⃣</a> &nbsp;
-  <a href="https://github.com/AdamX5/AdamX5/issues/new?title=c4%3Adrop%3A2&body=Just+click+%27Submit+new+issue%27+to+play!+Do+not+change+the+title.">2️⃣</a> &nbsp;
-  <a href="https://github.com/AdamX5/AdamX5/issues/new?title=c4%3Adrop%3A3&body=Just+click+%27Submit+new+issue%27+to+play!+Do+not+change+the+title.">3️⃣</a> &nbsp;
-  <a href="https://github.com/AdamX5/AdamX5/issues/new?title=c4%3Adrop%3A4&body=Just+click+%27Submit+new+issue%27+to+play!+Do+not+change+the+title.">4️⃣</a> &nbsp;
-  <a href="https://github.com/AdamX5/AdamX5/issues/new?title=c4%3Adrop%3A5&body=Just+click+%27Submit+new+issue%27+to+play!+Do+not+change+the+title.">5️⃣</a> &nbsp;
-  <a href="https://github.com/AdamX5/AdamX5/issues/new?title=c4%3Adrop%3A6&body=Just+click+%27Submit+new+issue%27+to+play!+Do+not+change+the+title.">6️⃣</a> &nbsp;
-  <a href="https://github.com/AdamX5/AdamX5/issues/new?title=c4%3Adrop%3A7&body=Just+click+%27Submit+new+issue%27+to+play!+Do+not+change+the+title.">7️⃣</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AdamX5/AdamX5/issues/new?title=c4%3Areset&body=Reset+the+game.">🔄 New Game</a>
+  <img src="https://github.com/AdamX5/AdamX5/blob/output/github-contribution-grid-snake.svg" alt="snake-animation" />
 </p>
