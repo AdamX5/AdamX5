@@ -1,0 +1,25 @@
+name: Connect 4 Game Logic
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  play-move:
+    
+    if: startsWith(github.event.issue.title, 'c4:')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Play Connect 4
+        uses: simonecorsi/connect4-readme-action@v1.2.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          issue_number: ${{ github.event.issue.number }}
+          level: 5
