@@ -33,7 +33,7 @@
   <h2 align="center"> </h2>
 </p>
 
-### 🐍 My Contribution Snake
+### My Contribution getting eaten by a Snake
 <p align="center">
   <img src="https://github.com/AdamX5/AdamX5/blob/output/github-contribution-grid-snake.svg" alt="snake-animation" />
 </p>
