@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://github.com/AdamX5" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-none_yet-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/adamx5/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@adamx5-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/32442728/adam?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Adam%20Mainali-blue?style=flat-square&logo=stackoverflow"></a>
+<a href="https://stackoverflow.com/users/32442728/adam?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Adam-blue?style=flat-square&logo=stackoverflow"></a>
 <a href="mailto:badamx5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-badamx5@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
