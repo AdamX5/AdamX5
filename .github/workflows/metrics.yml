@@ -46,6 +46,11 @@ jobs:
           cp /metrics_renders/metrics.isocalendar.svg dist/
           cp /metrics_renders/metrics.isocalendar.fullyear.svg dist/
 
+      - name: label headers
+        run: |
+          sed -i 's/Contributions calendar/Contributions calendar (Month)/' dist/metrics.isocalendar.svg
+          sed -i 's/Contributions calendar/Contributions calendar (Year)/' dist/metrics.isocalendar.fullyear.svg
+
       - name: derive dark variants
         run: |
           for f in metrics.isocalendar.svg metrics.isocalendar.fullyear.svg; do
