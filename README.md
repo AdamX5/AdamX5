@@ -33,7 +33,6 @@
   <h2 align="center"> </h2>
 </p>
 
-### 📅 My Contribution Calendar
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamX5/AdamX5/output/metrics.isocalendar.dark.svg">
