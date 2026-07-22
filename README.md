@@ -32,3 +32,12 @@
 <p align="center">
   <h2 align="center"> </h2>
 </p>
+
+### 📅 My Contribution Calendar
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamX5/AdamX5/output/metrics.isocalendar.fullyear.dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdamX5/AdamX5/output/metrics.isocalendar.fullyear.svg">
+    <img src="https://raw.githubusercontent.com/AdamX5/AdamX5/output/metrics.isocalendar.fullyear.svg" alt="isometric-commit-calendar" />
+  </picture>
+</p>
