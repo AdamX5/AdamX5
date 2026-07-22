@@ -34,10 +34,21 @@
 </p>
 
 ### 📅 My Contribution Calendar
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamX5/AdamX5/output/metrics.isocalendar.fullyear.dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdamX5/AdamX5/output/metrics.isocalendar.fullyear.svg">
-    <img src="https://raw.githubusercontent.com/AdamX5/AdamX5/output/metrics.isocalendar.fullyear.svg" alt="isometric-commit-calendar" />
-  </picture>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamX5/AdamX5/output/metrics.isocalendar.dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdamX5/AdamX5/output/metrics.isocalendar.svg">
+        <img src="https://raw.githubusercontent.com/AdamX5/AdamX5/output/metrics.isocalendar.svg" alt="isometric-commit-calendar-half-year" />
+      </picture>
+    </td>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamX5/AdamX5/output/metrics.isocalendar.fullyear.dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdamX5/AdamX5/output/metrics.isocalendar.fullyear.svg">
+        <img src="https://raw.githubusercontent.com/AdamX5/AdamX5/output/metrics.isocalendar.fullyear.svg" alt="isometric-commit-calendar-full-year" />
+      </picture>
+    </td>
+  </tr>
+</table>
