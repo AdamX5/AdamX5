@@ -20,9 +20,6 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: create output directory
-        run: mkdir -p dist
-
       - name: generate metrics.isocalendar.svg (half-year, light)
         uses: lowlighter/metrics@latest
         with:
@@ -31,7 +28,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           output_action: none
-          filename: dist/metrics.isocalendar.svg
+          filename: metrics.isocalendar.svg
 
       - name: generate metrics.isocalendar.fullyear.svg (full-year, light)
         uses: lowlighter/metrics@latest
@@ -41,7 +38,13 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           output_action: none
-          filename: dist/metrics.isocalendar.fullyear.svg
+          filename: metrics.isocalendar.fullyear.svg
+
+      - name: collect rendered assets
+        run: |
+          mkdir -p dist
+          cp /metrics_renders/metrics.isocalendar.svg dist/
+          cp /metrics_renders/metrics.isocalendar.fullyear.svg dist/
 
       - name: derive dark variants
         run: |
